@@ -18,9 +18,16 @@ body{
 }
 
 
-/*DCC Cleric Generator Version 3 css*/
+/*DCC Cleric Generator Version 4 css*/
 
 #characterName{
+    position:absolute;
+    top: 135px;
+    left: 60px;
+	font-size: 0.85em;
+}
+
+#characterName2{
     position:absolute;
     top: 135px;
     left: 60px;
@@ -162,10 +169,10 @@ body{
 
 #abilityScoreGeneration{
     position:absolute;
-    top: 1170px;
+    top: 1110px;
     left: 720px;
     font-size: 0.5em;
-    width: 190px;
+    width: 200px;
 }
 
 
