@@ -9,6 +9,18 @@ The two most notable differences between Version 3 and Version 4 of the DCC Cler
 
 ------------------
 
+Dungeon Crawl Classics Cleric Character Generator Version 4:
+
+https://www.oldschooladventures.org/dcc2/more/classes/cleric/
+
+---------------
+
+
+Update 1.01: 2023-02-18
+
+The completed version of the Cleric Character Generator Version 4 has been added.  As well, a link to the 'live version' of the character generator has been added to the ReadMe file.
+
+
 Initial commit: 2023-02-17
 
 The initial commit for the PHP JQuery Cleric Character Generator Version 4.
